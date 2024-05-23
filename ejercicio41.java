@@ -10,6 +10,9 @@ public class ejercicio41 {
 		
 		for (int i = 1;i <= 5; i++) {
 			System.out.println("Ingrese la temperatura "+i);
+			System.out.println("Cp");
+		
+		
 		}
 		
 		
