@@ -2,10 +2,11 @@ package ejercicio4;
 
 import java.util.Scanner;
 
-public class ejercicio45 {
+public class Ejercicio46 {
 	public static void main(String[] args) {
 		Scanner datos = new Scanner(System.in);
 		
+
 		int[]  numero = new int[7];
 		numero[0]=1011;
 		numero[1]=2367;
@@ -57,5 +58,11 @@ public class ejercicio45 {
 			}
 		
 	}
+		
+		
+		
+		
+		
+	}
 
-}
+
